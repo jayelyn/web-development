@@ -1,0 +1,57 @@
+/* #e3fdfd #cbf1f5 #a6e3e9 #71c9ce */
+body {
+  margin: 0;
+  font-family: 'Quicksand', sans-serif;
+}
+
+.top-container {
+  position: relative;
+  padding-top: 100px;
+  height: 420px;
+  background-color: #cbf1f5;
+  color: #333333;
+  text-align: center;
+}
+
+.deco {
+  text-decoration: underline;
+}
+
+.cloud1 {
+  position: absolute;
+  top: 30px;
+  right: 25%;
+}
+
+.cloud2 {
+  position: absolute;
+  left: 25%;
+}
+
+.mt {
+  margin: 50px 0 0 0;
+}
+
+.header1 {
+  font-family: 'Sacramento', cursive;
+  font-size: 42pt;
+  font-weight: lighter;
+  margin: 0;
+}
+
+.middle-container {
+  background-color: #a6e3e9;
+  width: 100%;
+  height: 500px;
+}
+
+.bottom-container {
+  background-color: #33333d;
+  color: #ffffff;
+  width: 100%;
+  height: 80px;
+}
+
+.contact-title {
+  margin: 0;
+}
